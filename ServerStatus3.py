@@ -8,8 +8,6 @@ import time
 
 print("Software made by MrHoss")
 print("GitHub: https://github.com/MrHoss")
-print("Please dont f@ck with everything!!")
-
 
 conn = sqlite3.connect("serverList.db")
 cursor = conn.cursor()
